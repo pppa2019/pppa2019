@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computational Linguistics and Medical Image Processing.
 - 🌱 I’m currently learning NLP and data mining.
 - 💞️ I’m looking to collaborate on builing an QA system in medical field!
-- 📫 How to reach me -- please email me at benzoyl0436@gmail.com (Mainly for privacy concerns, sorry about that attach an unusually used email, but I will reply as prompt as I read you mail~
+- 📫 How to reach me -- please email me at benzoyl0436@gmail.com
 
 <!---
 pppa2019/pppa2019 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
